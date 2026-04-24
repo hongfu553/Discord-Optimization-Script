@@ -1,4 +1,4 @@
-# Discord Optimization Script 🚀 (極速快取版)
+# Discord Optimization Script 🚀
 
 這是一個專為 Windows 使用者設計的輕量級批次檔腳本，能夠一鍵自動為您的 Discord 安裝 **OpenAsar** 與 **Vencord**。
 
